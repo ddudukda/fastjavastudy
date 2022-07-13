@@ -1,2 +1,2 @@
-# fastjavastudy
-fast+java+study
+# 자바 이론 공부
+기본에서 심화 프로젝트를 준비하는 이론과정
