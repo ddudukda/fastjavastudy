@@ -1,0 +1,8 @@
+8월 30, 2022 11:22:29 오후 ch11.MyLogger log
+경고: test
+8월 30, 2022 11:22:29 오후 ch11.MyLogger log
+심각: test
+8월 30, 2022 11:23:55 오후 ch11.MyLogger warning
+경고: name must not be null
+8월 30, 2022 11:23:55 오후 ch11.MyLogger warning
+경고: 이름이 너무 길어요
